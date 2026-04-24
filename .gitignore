@@ -1,0 +1,17 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.ogg
+*.mp3
+*.wav
+*.flac
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.eggs/
