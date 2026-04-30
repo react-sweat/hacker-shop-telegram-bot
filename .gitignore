@@ -18,3 +18,8 @@ build/
 ffmpeg.exe
 ffmpeg.exe
 *.exe
+ffmpeg.zip
+ffmpeg-n6.0-latest-win64-gpl-6.0.zip
+ffmpeg-n6.0-latest-win64-gpl-6.0.exe
+ffmpeg/
+ffmpeg
